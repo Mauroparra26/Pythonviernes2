@@ -1,2 +1,3 @@
-# Pythonviernes2
+Pythonviernes2
 condicionales con python
+# Mauricio Parra
